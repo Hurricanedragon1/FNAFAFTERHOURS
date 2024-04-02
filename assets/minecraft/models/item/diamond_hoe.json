@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{ "predicate": {"custom_model_data":1}, "model": "custom/karakterek/keszito"},
-        { "predicate": {"custom_model_data":2}, "model": "custom/karakterek/keszito2"}
+        { "predicate": {"custom_model_data":2}, "model": "custom/karakterek/keszito2"},
+        { "predicate": {"custom_model_data":3}, "model": "custom/karakterek/freddy"}
     ]
 }
